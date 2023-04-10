@@ -7,3 +7,8 @@ Data stuctures I learned:
 3. Hash Table
 4. AVL Tree
 5. Linked list
+
+Algorithms:
+1. BFS
+2. DFS
+3. MST
